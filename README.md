@@ -1,17 +1,5 @@
-# tp5_widget
+<img width="1080" height="1259" alt="40a6b398-6bc5-44f0-8966-4f8116b282a1" src="https://github.com/user-attachments/assets/d8b4a9d6-ad2a-4bde-bf19-83a6dc5e2623" />
 
-A new Flutter project.
+<img width="686" height="794" alt="7c0270b8-32a2-4c2a-a911-7155c9b9fce2" src="https://github.com/user-attachments/assets/a579fc2d-1f45-4beb-9e04-285ba1eb3819" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="701" height="843" alt="ba8ab159-5afc-4dda-b9bc-ea7fdf00e53f" src="https://github.com/user-attachments/assets/524ad24f-6168-407a-8bb2-120e3ae8a225" />
